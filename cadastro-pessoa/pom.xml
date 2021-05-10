@@ -14,7 +14,8 @@
 	<name>cadastro-pessoa</name>
 	<description>API Cadastro Pessoa</description>
 	<properties>
-		<java.version>11</java.version>
+		<maven.compiler.source>1.8</maven.compiler.source>
+   		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
 	<dependencies>
 		<dependency>
